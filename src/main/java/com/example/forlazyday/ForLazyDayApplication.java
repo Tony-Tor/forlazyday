@@ -8,6 +8,7 @@ public class ForLazyDayApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ForLazyDayApplication.class, args);
+        System.out.println("Hello world");
     }
 
 }
